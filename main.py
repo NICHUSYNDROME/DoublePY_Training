@@ -7,9 +7,14 @@ app = Flask(__name__, template_folder='PinyinTable')
 def index():
     return render_template('HanYuPinYin.html')
 
-@app.route('/<path:filename>')
-def serve_static(filename):
-    return send_from_directory('PinyinTable', filename)
+@app.route('/<path:path>')
+def serve_static(path):
+    if path.startswith('assets/'):
+        return send_from_directory('.', path)
+    return send_from_directory('PinyinTable', path)
+
+import webbrowser
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    webbrowser.open("http://127.0.0.1:5000")
+    app.run(debug=False)
