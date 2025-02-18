@@ -1,0 +1,2059 @@
+{
+    "pingyins": {
+        "zhi": {
+            "initial": "zh",
+            "final": "(-i)",
+            "example": "只"
+        },
+        "chi": {
+            "initial": "ch",
+            "final": "(-i)",
+            "example": "吃"
+        },
+        "shi": {
+            "initial": "sh",
+            "final": "(-i)",
+            "example": "使"
+        },
+        "ri": {
+            "initial": "r",
+            "final": "(-i)",
+            "example": "日"
+        },
+        "zi": {
+            "initial": "z",
+            "final": "(-i)",
+            "example": "字"
+        },
+        "ci": {
+            "initial": "c",
+            "final": "(-i)",
+            "example": "次"
+        },
+        "si": {
+            "initial": "s",
+            "final": "(-i)",
+            "example": "死"
+        },
+        "bi": {
+            "initial": "b",
+            "final": "i",
+            "example": "比"
+        },
+        "pi": {
+            "initial": "p",
+            "final": "i",
+            "example": "批"
+        },
+        "mi": {
+            "initial": "m",
+            "final": "i",
+            "example": "米"
+        },
+        "di": {
+            "initial": "d",
+            "final": "i",
+            "example": "地"
+        },
+        "ti": {
+            "initial": "t",
+            "final": "i",
+            "example": "提"
+        },
+        "ni": {
+            "initial": "n",
+            "final": "i",
+            "example": "腻"
+        },
+        "li": {
+            "initial": "l",
+            "final": "i",
+            "example": "里"
+        },
+        "ji": {
+            "initial": "j",
+            "final": "i",
+            "example": "几"
+        },
+        "qi": {
+            "initial": "q",
+            "final": "i",
+            "example": "其"
+        },
+        "xi": {
+            "initial": "x",
+            "final": "i",
+            "example": "系"
+        },
+        "yi": {
+            "initial": "空",
+            "final": "i",
+            "example": "已"
+        },
+        "bu": {
+            "initial": "b",
+            "final": "u",
+            "example": "不"
+        },
+        "pu": {
+            "initial": "p",
+            "final": "u",
+            "example": "谱"
+        },
+        "mu": {
+            "initial": "m",
+            "final": "u",
+            "example": "木"
+        },
+        "fu": {
+            "initial": "f",
+            "final": "u",
+            "example": "副"
+        },
+        "du": {
+            "initial": "d",
+            "final": "u",
+            "example": "度"
+        },
+        "tu": {
+            "initial": "t",
+            "final": "u",
+            "example": "图"
+        },
+        "nu": {
+            "initial": "n",
+            "final": "u",
+            "example": "怒"
+        },
+        "lu": {
+            "initial": "l",
+            "final": "u",
+            "example": "路"
+        },
+        "gu": {
+            "initial": "g",
+            "final": "u",
+            "example": "故"
+        },
+        "ku": {
+            "initial": "k",
+            "final": "u",
+            "example": "哭"
+        },
+        "hu": {
+            "initial": "h",
+            "final": "u",
+            "example": "乎"
+        },
+        "ju": {
+            "initial": "j",
+            "final": "ü",
+            "example": "据"
+        },
+        "qu": {
+            "initial": "q",
+            "final": "ü",
+            "example": "去"
+        },
+        "xu": {
+            "initial": "x",
+            "final": "ü",
+            "example": "虚"
+        },
+        "zhu": {
+            "initial": "zh",
+            "final": "u",
+            "example": "主"
+        },
+        "chu": {
+            "initial": "ch",
+            "final": "u",
+            "example": "处"
+        },
+        "shu": {
+            "initial": "sh",
+            "final": "u",
+            "example": "书"
+        },
+        "ru": {
+            "initial": "r",
+            "final": "u",
+            "example": "如"
+        },
+        "zu": {
+            "initial": "z",
+            "final": "u",
+            "example": "组"
+        },
+        "cu": {
+            "initial": "c",
+            "final": "u",
+            "example": "粗"
+        },
+        "su": {
+            "initial": "s",
+            "final": "u",
+            "example": "苏"
+        },
+        "wu": {
+            "initial": "空",
+            "final": "u",
+            "example": "无"
+        },
+        "nü": {
+            "initial": "n",
+            "final": "ü",
+            "example": "女"
+        },
+        "lü": {
+            "initial": "l",
+            "final": "ü",
+            "example": "率"
+        },
+        "yu": {
+            "initial": "空",
+            "final": "ü",
+            "example": "与"
+        },
+        "ba": {
+            "initial": "b",
+            "final": "a",
+            "example": "把"
+        },
+        "pa": {
+            "initial": "p",
+            "final": "a",
+            "example": "怕"
+        },
+        "ma": {
+            "initial": "m",
+            "final": "a",
+            "example": "骂"
+        },
+        "fa": {
+            "initial": "f",
+            "final": "a",
+            "example": "发"
+        },
+        "da": {
+            "initial": "d",
+            "final": "a",
+            "example": "大"
+        },
+        "ta": {
+            "initial": "t",
+            "final": "a",
+            "example": "她"
+        },
+        "na": {
+            "initial": "n",
+            "final": "a",
+            "example": "那"
+        },
+        "la": {
+            "initial": "l",
+            "final": "a",
+            "example": "拉"
+        },
+        "ga": {
+            "initial": "g",
+            "final": "a",
+            "example": "尬"
+        },
+        "ka": {
+            "initial": "k",
+            "final": "a",
+            "example": "卡"
+        },
+        "ha": {
+            "initial": "h",
+            "final": "a",
+            "example": "哈"
+        },
+        "zha": {
+            "initial": "zh",
+            "final": "a",
+            "example": "炸"
+        },
+        "cha": {
+            "initial": "ch",
+            "final": "a",
+            "example": "差"
+        },
+        "sha": {
+            "initial": "sh",
+            "final": "a",
+            "example": "啥"
+        },
+        "za": {
+            "initial": "z",
+            "final": "a",
+            "example": "咋"
+        },
+        "ca": {
+            "initial": "c",
+            "final": "a",
+            "example": "擦"
+        },
+        "sa": {
+            "initial": "s",
+            "final": "a",
+            "example": "撒"
+        },
+        "a": {
+            "initial": "空",
+            "final": "a",
+            "example": "阿"
+        },
+        "dia": {
+            "initial": "d",
+            "final": "ia",
+            "example": "嗲"
+        },
+        "lia": {
+            "initial": "l",
+            "final": "ia",
+            "example": "俩"
+        },
+        "jia": {
+            "initial": "j",
+            "final": "ia",
+            "example": "加"
+        },
+        "qia": {
+            "initial": "q",
+            "final": "ia",
+            "example": "恰"
+        },
+        "xia": {
+            "initial": "x",
+            "final": "ia",
+            "example": "下"
+        },
+        "ya": {
+            "initial": "空",
+            "final": "ia",
+            "example": "呀"
+        },
+        "gua": {
+            "initial": "g",
+            "final": "ua",
+            "example": "挂"
+        },
+        "kua": {
+            "initial": "k",
+            "final": "ua",
+            "example": "跨"
+        },
+        "hua": {
+            "initial": "h",
+            "final": "ua",
+            "example": "话"
+        },
+        "zhua": {
+            "initial": "zh",
+            "final": "ua",
+            "example": "抓"
+        },
+        "chua": {
+            "initial": "ch",
+            "final": "ua",
+            "example": "欻"
+        },
+        "shua": {
+            "initial": "sh",
+            "final": "ua",
+            "example": "刷"
+        },
+        "wa": {
+            "initial": "空",
+            "final": "ua",
+            "example": "挖"
+        },
+        "bo": {
+            "initial": "b",
+            "final": "o",
+            "example": "波"
+        },
+        "po": {
+            "initial": "p",
+            "final": "o",
+            "example": "破"
+        },
+        "mo": {
+            "initial": "m",
+            "final": "o",
+            "example": "末"
+        },
+        "fo": {
+            "initial": "f",
+            "final": "o",
+            "example": "佛"
+        },
+        "o": {
+            "initial": "空",
+            "final": "o",
+            "example": "喔"
+        },
+        "duo": {
+            "initial": "d",
+            "final": "uo",
+            "example": "多"
+        },
+        "tuo": {
+            "initial": "t",
+            "final": "uo",
+            "example": "拖"
+        },
+        "nuo": {
+            "initial": "n",
+            "final": "uo",
+            "example": "诺"
+        },
+        "luo": {
+            "initial": "l",
+            "final": "uo",
+            "example": "罗"
+        },
+        "guo": {
+            "initial": "g",
+            "final": "uo",
+            "example": "过"
+        },
+        "kuo": {
+            "initial": "k",
+            "final": "uo",
+            "example": "扩"
+        },
+        "huo": {
+            "initial": "h",
+            "final": "uo",
+            "example": "或"
+        },
+        "zhuo": {
+            "initial": "zh",
+            "final": "uo",
+            "example": "桌"
+        },
+        "chuo": {
+            "initial": "ch",
+            "final": "uo",
+            "example": "戳"
+        },
+        "shuo": {
+            "initial": "sh",
+            "final": "uo",
+            "example": "说"
+        },
+        "ruo": {
+            "initial": "r",
+            "final": "uo",
+            "example": "若"
+        },
+        "zuo": {
+            "initial": "z",
+            "final": "uo",
+            "example": "做"
+        },
+        "cuo": {
+            "initial": "c",
+            "final": "uo",
+            "example": "错"
+        },
+        "suo": {
+            "initial": "s",
+            "final": "uo",
+            "example": "所"
+        },
+        "wo": {
+            "initial": "空",
+            "final": "uo",
+            "example": "握"
+        },
+        "me": {
+            "initial": "m",
+            "final": "e",
+            "example": "么"
+        },
+        "de": {
+            "initial": "d",
+            "final": "e",
+            "example": "得"
+        },
+        "te": {
+            "initial": "t",
+            "final": "e",
+            "example": "特"
+        },
+        "ne": {
+            "initial": "n",
+            "final": "e",
+            "example": "呢"
+        },
+        "le": {
+            "initial": "l",
+            "final": "e",
+            "example": "乐"
+        },
+        "ge": {
+            "initial": "g",
+            "final": "e",
+            "example": "各"
+        },
+        "ke": {
+            "initial": "k",
+            "final": "e",
+            "example": "克"
+        },
+        "he": {
+            "initial": "h",
+            "final": "e",
+            "example": "合"
+        },
+        "zhe": {
+            "initial": "zh",
+            "final": "e",
+            "example": "着"
+        },
+        "che": {
+            "initial": "ch",
+            "final": "e",
+            "example": "车"
+        },
+        "she": {
+            "initial": "sh",
+            "final": "e",
+            "example": "设"
+        },
+        "re": {
+            "initial": "r",
+            "final": "e",
+            "example": "热"
+        },
+        "ze": {
+            "initial": "z",
+            "final": "e",
+            "example": "则"
+        },
+        "ce": {
+            "initial": "c",
+            "final": "e",
+            "example": "侧"
+        },
+        "se": {
+            "initial": "s",
+            "final": "e",
+            "example": "色"
+        },
+        "e": {
+            "initial": "空",
+            "final": "e",
+            "example": "额"
+        },
+        "bie": {
+            "initial": "b",
+            "final": "ie",
+            "example": "别"
+        },
+        "pie": {
+            "initial": "p",
+            "final": "ie",
+            "example": "撇"
+        },
+        "mie": {
+            "initial": "m",
+            "final": "ie",
+            "example": "灭"
+        },
+        "die": {
+            "initial": "d",
+            "final": "ie",
+            "example": "跌"
+        },
+        "tie": {
+            "initial": "t",
+            "final": "ie",
+            "example": "贴"
+        },
+        "nie": {
+            "initial": "n",
+            "final": "ie",
+            "example": "捏"
+        },
+        "lie": {
+            "initial": "l",
+            "final": "ie",
+            "example": "列"
+        },
+        "jie": {
+            "initial": "j",
+            "final": "ie",
+            "example": "接"
+        },
+        "qie": {
+            "initial": "q",
+            "final": "ie",
+            "example": "且"
+        },
+        "xie": {
+            "initial": "x",
+            "final": "ie",
+            "example": "写"
+        },
+        "ye": {
+            "initial": "空",
+            "final": "ie",
+            "example": "也"
+        },
+        "nue": {
+            "initial": "n",
+            "final": "üe",
+            "example": "虐"
+        },
+        "lue": {
+            "initial": "l",
+            "final": "üe",
+            "example": "略"
+        },
+        "jue": {
+            "initial": "j",
+            "final": "üe",
+            "example": "绝"
+        },
+        "que": {
+            "initial": "q",
+            "final": "üe",
+            "example": "却"
+        },
+        "xue": {
+            "initial": "x",
+            "final": "üe",
+            "example": "学"
+        },
+        "yue": {
+            "initial": "空",
+            "final": "üe",
+            "example": "越"
+        },
+        "bai": {
+            "initial": "b",
+            "final": "ai",
+            "example": "白"
+        },
+        "pai": {
+            "initial": "p",
+            "final": "ai",
+            "example": "拍"
+        },
+        "mai": {
+            "initial": "m",
+            "final": "ai",
+            "example": "买"
+        },
+        "dai": {
+            "initial": "d",
+            "final": "ai",
+            "example": "带"
+        },
+        "tai": {
+            "initial": "t",
+            "final": "ai",
+            "example": "太"
+        },
+        "nai": {
+            "initial": "n",
+            "final": "ai",
+            "example": "乃"
+        },
+        "lai": {
+            "initial": "l",
+            "final": "ai",
+            "example": "来"
+        },
+        "gai": {
+            "initial": "g",
+            "final": "ai",
+            "example": "该"
+        },
+        "kai": {
+            "initial": "k",
+            "final": "ai",
+            "example": "开"
+        },
+        "hai": {
+            "initial": "h",
+            "final": "ai",
+            "example": "还"
+        },
+        "zhai": {
+            "initial": "zh",
+            "final": "ai",
+            "example": "债"
+        },
+        "chai": {
+            "initial": "ch",
+            "final": "ai",
+            "example": "拆"
+        },
+        "shai": {
+            "initial": "sh",
+            "final": "ai",
+            "example": "晒"
+        },
+        "zai": {
+            "initial": "z",
+            "final": "ai",
+            "example": "再"
+        },
+        "cai": {
+            "initial": "c",
+            "final": "ai",
+            "example": "才"
+        },
+        "sai": {
+            "initial": "s",
+            "final": "ai",
+            "example": "赛"
+        },
+        "ai": {
+            "initial": "空",
+            "final": "ai",
+            "example": "爱"
+        },
+        "guai": {
+            "initial": "g",
+            "final": "uai",
+            "example": "怪"
+        },
+        "kuai": {
+            "initial": "k",
+            "final": "uai",
+            "example": "快"
+        },
+        "huai": {
+            "initial": "h",
+            "final": "uai",
+            "example": "坏"
+        },
+        "zhuai": {
+            "initial": "zh",
+            "final": "uai",
+            "example": "拽"
+        },
+        "chuai": {
+            "initial": "ch",
+            "final": "uai",
+            "example": "踹"
+        },
+        "shuai": {
+            "initial": "sh",
+            "final": "uai",
+            "example": "帅"
+        },
+        "wai": {
+            "initial": "空",
+            "final": "uai",
+            "example": "外"
+        },
+        "bei": {
+            "initial": "b",
+            "final": "ei",
+            "example": "被"
+        },
+        "pei": {
+            "initial": "p",
+            "final": "ei",
+            "example": "陪"
+        },
+        "mei": {
+            "initial": "m",
+            "final": "ei",
+            "example": "没"
+        },
+        "fei": {
+            "initial": "f",
+            "final": "ei",
+            "example": "飞"
+        },
+        "dei": {
+            "initial": "d",
+            "final": "ei",
+            "example": "得"
+        },
+        "tei": {
+            "initial": "t",
+            "final": "ei",
+            "example": "忒"
+        },
+        "nei": {
+            "initial": "n",
+            "final": "ei",
+            "example": "内"
+        },
+        "lei": {
+            "initial": "l",
+            "final": "ei",
+            "example": "类"
+        },
+        "gei": {
+            "initial": "g",
+            "final": "ei",
+            "example": "给"
+        },
+        "kei": {
+            "initial": "k",
+            "final": "ei",
+            "example": "剋"
+        },
+        "hei": {
+            "initial": "h",
+            "final": "ei",
+            "example": "黑"
+        },
+        "zhei": {
+            "initial": "zh",
+            "final": "ei",
+            "example": "这"
+        },
+        "shei": {
+            "initial": "sh",
+            "final": "ei",
+            "example": "谁"
+        },
+        "zei": {
+            "initial": "z",
+            "final": "ei",
+            "example": "贼"
+        },
+        "ei": {
+            "initial": "空",
+            "final": "ei",
+            "example": "诶"
+        },
+        "dui": {
+            "initial": "d",
+            "final": "uei",
+            "example": "对"
+        },
+        "tui": {
+            "initial": "t",
+            "final": "uei",
+            "example": "推"
+        },
+        "gui": {
+            "initial": "g",
+            "final": "uei",
+            "example": "贵"
+        },
+        "kui": {
+            "initial": "k",
+            "final": "uei",
+            "example": "亏"
+        },
+        "hui": {
+            "initial": "h",
+            "final": "uei",
+            "example": "会"
+        },
+        "zhui": {
+            "initial": "zh",
+            "final": "uei",
+            "example": "追"
+        },
+        "chui": {
+            "initial": "ch",
+            "final": "uei",
+            "example": "吹"
+        },
+        "shui": {
+            "initial": "sh",
+            "final": "uei",
+            "example": "水"
+        },
+        "rui": {
+            "initial": "r",
+            "final": "uei",
+            "example": "瑞 "
+        },
+        "zui": {
+            "initial": "z",
+            "final": "uei",
+            "example": "最"
+        },
+        "cui": {
+            "initial": "c",
+            "final": "uei",
+            "example": "催"
+        },
+        "sui": {
+            "initial": "s",
+            "final": "uei",
+            "example": "岁"
+        },
+        "wei": {
+            "initial": "空",
+            "final": "uei",
+            "example": "为"
+        },
+        "bao": {
+            "initial": "b",
+            "final": "ao",
+            "example": "包"
+        },
+        "pao": {
+            "initial": "p",
+            "final": "ao",
+            "example": "跑"
+        },
+        "mao": {
+            "initial": "m",
+            "final": "ao",
+            "example": "毛"
+        },
+        "dao": {
+            "initial": "d",
+            "final": "ao",
+            "example": "到"
+        },
+        "tao": {
+            "initial": "t",
+            "final": "ao",
+            "example": "套"
+        },
+        "nao": {
+            "initial": "n",
+            "final": "ao",
+            "example": "闹"
+        },
+        "lao": {
+            "initial": "l",
+            "final": "ao",
+            "example": "老"
+        },
+        "gao": {
+            "initial": "g",
+            "final": "ao",
+            "example": "高"
+        },
+        "kao": {
+            "initial": "k",
+            "final": "ao",
+            "example": "靠"
+        },
+        "hao": {
+            "initial": "h",
+            "final": "ao",
+            "example": "好"
+        },
+        "zhao": {
+            "initial": "zh",
+            "final": "ao",
+            "example": "找"
+        },
+        "chao": {
+            "initial": "ch",
+            "final": "ao",
+            "example": "超"
+        },
+        "shao": {
+            "initial": "sh",
+            "final": "ao",
+            "example": "少"
+        },
+        "rao": {
+            "initial": "r",
+            "final": "ao",
+            "example": "绕"
+        },
+        "zao": {
+            "initial": "z",
+            "final": "ao",
+            "example": "早"
+        },
+        "cao": {
+            "initial": "c",
+            "final": "ao",
+            "example": "草"
+        },
+        "sao": {
+            "initial": "s",
+            "final": "ao",
+            "example": "扫"
+        },
+        "ao": {
+            "initial": "空",
+            "final": "ao",
+            "example": "奥"
+        },
+        "biao": {
+            "initial": "b",
+            "final": "iao",
+            "example": "表"
+        },
+        "piao": {
+            "initial": "p",
+            "final": "iao",
+            "example": "票"
+        },
+        "miao": {
+            "initial": "m",
+            "final": "iao",
+            "example": "秒"
+        },
+        "fiao": {
+            "initial": "f",
+            "final": "iao",
+            "example": "覅"
+        },
+        "diao": {
+            "initial": "d",
+            "final": "iao",
+            "example": "调"
+        },
+        "tiao": {
+            "initial": "t",
+            "final": "iao",
+            "example": "条"
+        },
+        "niao": {
+            "initial": "n",
+            "final": "iao",
+            "example": "鸟"
+        },
+        "liao": {
+            "initial": "l",
+            "final": "iao",
+            "example": "聊"
+        },
+        "jiao": {
+            "initial": "j",
+            "final": "iao",
+            "example": "叫"
+        },
+        "qiao": {
+            "initial": "q",
+            "final": "iao",
+            "example": "敲"
+        },
+        "xiao": {
+            "initial": "x",
+            "final": "iao",
+            "example": "笑"
+        },
+        "yao": {
+            "initial": "空",
+            "final": "iao",
+            "example": "要"
+        },
+        "pou": {
+            "initial": "p",
+            "final": "ou",
+            "example": "剖"
+        },
+        "mou": {
+            "initial": "m",
+            "final": "ou",
+            "example": "某"
+        },
+        "fou": {
+            "initial": "f",
+            "final": "ou",
+            "example": "否"
+        },
+        "dou": {
+            "initial": "d",
+            "final": "ou",
+            "example": "都"
+        },
+        "tou": {
+            "initial": "t",
+            "final": "ou",
+            "example": "头"
+        },
+        "nou": {
+            "initial": "n",
+            "final": "ou",
+            "example": "耨"
+        },
+        "lou": {
+            "initial": "l",
+            "final": "ou",
+            "example": "楼"
+        },
+        "gou": {
+            "initial": "g",
+            "final": "ou",
+            "example": "够"
+        },
+        "kou": {
+            "initial": "k",
+            "final": "ou",
+            "example": "口"
+        },
+        "hou": {
+            "initial": "h",
+            "final": "ou",
+            "example": "后"
+        },
+        "zhou": {
+            "initial": "zh",
+            "final": "ou",
+            "example": "周"
+        },
+        "chou": {
+            "initial": "ch",
+            "final": "ou",
+            "example": "抽"
+        },
+        "shou": {
+            "initial": "sh",
+            "final": "ou",
+            "example": "受"
+        },
+        "rou": {
+            "initial": "r",
+            "final": "ou",
+            "example": "肉"
+        },
+        "zou": {
+            "initial": "z",
+            "final": "ou",
+            "example": "走"
+        },
+        "cou": {
+            "initial": "c",
+            "final": "ou",
+            "example": "凑"
+        },
+        "sou": {
+            "initial": "s",
+            "final": "ou",
+            "example": "搜"
+        },
+        "ou": {
+            "initial": "空",
+            "final": "ou",
+            "example": "欧"
+        },
+        "miu": {
+            "initial": "m",
+            "final": "iou",
+            "example": "谬"
+        },
+        "diu": {
+            "initial": "d",
+            "final": "iou",
+            "example": "丢"
+        },
+        "niu": {
+            "initial": "n",
+            "final": "iou",
+            "example": "牛"
+        },
+        "liu": {
+            "initial": "l",
+            "final": "iou",
+            "example": "流"
+        },
+        "jiu": {
+            "initial": "j",
+            "final": "iou",
+            "example": "久"
+        },
+        "qiu": {
+            "initial": "q",
+            "final": "iou",
+            "example": "求"
+        },
+        "xiu": {
+            "initial": "x",
+            "final": "iou",
+            "example": "修"
+        },
+        "you": {
+            "initial": "空",
+            "final": "iou",
+            "example": "又"
+        },
+        "ban": {
+            "initial": "b",
+            "final": "an",
+            "example": "版"
+        },
+        "pan": {
+            "initial": "p",
+            "final": "an",
+            "example": "盘"
+        },
+        "man": {
+            "initial": "m",
+            "final": "an",
+            "example": "慢"
+        },
+        "fan": {
+            "initial": "f",
+            "final": "an",
+            "example": "反"
+        },
+        "dan": {
+            "initial": "d",
+            "final": "an",
+            "example": "但"
+        },
+        "tan": {
+            "initial": "t",
+            "final": "an",
+            "example": "谈"
+        },
+        "nan": {
+            "initial": "n",
+            "final": "an",
+            "example": "难"
+        },
+        "lan": {
+            "initial": "l",
+            "final": "an",
+            "example": "烂"
+        },
+        "gan": {
+            "initial": "g",
+            "final": "an",
+            "example": "感"
+        },
+        "kan": {
+            "initial": "k",
+            "final": "an",
+            "example": "看"
+        },
+        "han": {
+            "initial": "h",
+            "final": "an",
+            "example": "含"
+        },
+        "zhan": {
+            "initial": "zh",
+            "final": "an",
+            "example": "站"
+        },
+        "chan": {
+            "initial": "ch",
+            "final": "an",
+            "example": "产"
+        },
+        "shan": {
+            "initial": "sh",
+            "final": "an",
+            "example": "删"
+        },
+        "ran": {
+            "initial": "r",
+            "final": "an",
+            "example": "然"
+        },
+        "zan": {
+            "initial": "z",
+            "final": "an",
+            "example": "赞"
+        },
+        "can": {
+            "initial": "c",
+            "final": "an",
+            "example": "惨"
+        },
+        "san": {
+            "initial": "s",
+            "final": "an",
+            "example": "三"
+        },
+        "an": {
+            "initial": "空",
+            "final": "an",
+            "example": "按"
+        },
+        "bian": {
+            "initial": "b",
+            "final": "ian",
+            "example": "便"
+        },
+        "pian": {
+            "initial": "p",
+            "final": "ian",
+            "example": "篇"
+        },
+        "mian": {
+            "initial": "m",
+            "final": "ian",
+            "example": "面"
+        },
+        "dian": {
+            "initial": "d",
+            "final": "ian",
+            "example": "点"
+        },
+        "tian": {
+            "initial": "t",
+            "final": "ian",
+            "example": "天"
+        },
+        "nian": {
+            "initial": "n",
+            "final": "ian",
+            "example": "年"
+        },
+        "lian": {
+            "initial": "l",
+            "final": "ian",
+            "example": "连"
+        },
+        "jian": {
+            "initial": "j",
+            "final": "ian",
+            "example": "间"
+        },
+        "qian": {
+            "initial": "q",
+            "final": "ian",
+            "example": "前"
+        },
+        "xian": {
+            "initial": "x",
+            "final": "ian",
+            "example": "先"
+        },
+        "yan": {
+            "initial": "空",
+            "final": "ian",
+            "example": "眼"
+        },
+        "duan": {
+            "initial": "d",
+            "final": "uan",
+            "example": "端"
+        },
+        "tuan": {
+            "initial": "t",
+            "final": "uan",
+            "example": "团"
+        },
+        "nuan": {
+            "initial": "n",
+            "final": "uan",
+            "example": "暖"
+        },
+        "luan": {
+            "initial": "l",
+            "final": "uan",
+            "example": "乱"
+        },
+        "guan": {
+            "initial": "g",
+            "final": "uan",
+            "example": "关"
+        },
+        "kuan": {
+            "initial": "k",
+            "final": "uan",
+            "example": "款"
+        },
+        "huan": {
+            "initial": "h",
+            "final": "uan",
+            "example": "换"
+        },
+        "zhuan": {
+            "initial": "zh",
+            "final": "uan",
+            "example": "转"
+        },
+        "chuan": {
+            "initial": "ch",
+            "final": "uan",
+            "example": "传"
+        },
+        "shuan": {
+            "initial": "sh",
+            "final": "uan",
+            "example": "涮"
+        },
+        "ruan": {
+            "initial": "r",
+            "final": "uan",
+            "example": "软"
+        },
+        "zuan": {
+            "initial": "z",
+            "final": "uan",
+            "example": "钻"
+        },
+        "cuan": {
+            "initial": "c",
+            "final": "uan",
+            "example": "窜"
+        },
+        "suan": {
+            "initial": "s",
+            "final": "uan",
+            "example": "酸"
+        },
+        "wan": {
+            "initial": "空",
+            "final": "uan",
+            "example": "万"
+        },
+        "juan": {
+            "initial": "j",
+            "final": "üan",
+            "example": "卷"
+        },
+        "quan": {
+            "initial": "q",
+            "final": "üan",
+            "example": "全"
+        },
+        "xuan": {
+            "initial": "x",
+            "final": "üan",
+            "example": "选"
+        },
+        "yuan": {
+            "initial": "空",
+            "final": "üan",
+            "example": "元"
+        },
+        "ben": {
+            "initial": "b",
+            "final": "en",
+            "example": "本"
+        },
+        "pen": {
+            "initial": "p",
+            "final": "en",
+            "example": "喷"
+        },
+        "men": {
+            "initial": "m",
+            "final": "en",
+            "example": "们"
+        },
+        "fen": {
+            "initial": "f",
+            "final": "en",
+            "example": "分"
+        },
+        "den": {
+            "initial": "d",
+            "final": "en",
+            "example": "扥"
+        },
+        "nen": {
+            "initial": "n",
+            "final": "en",
+            "example": "嫩"
+        },
+        "gen": {
+            "initial": "g",
+            "final": "en",
+            "example": "跟"
+        },
+        "ken": {
+            "initial": "k",
+            "final": "en",
+            "example": "啃"
+        },
+        "hen": {
+            "initial": "h",
+            "final": "en",
+            "example": "很"
+        },
+        "zhen": {
+            "initial": "zh",
+            "final": "en",
+            "example": "真"
+        },
+        "chen": {
+            "initial": "ch",
+            "final": "en",
+            "example": "陈"
+        },
+        "shen": {
+            "initial": "sh",
+            "final": "en",
+            "example": "深"
+        },
+        "ren": {
+            "initial": "r",
+            "final": "en",
+            "example": "任"
+        },
+        "zen": {
+            "initial": "z",
+            "final": "en",
+            "example": "怎"
+        },
+        "cen": {
+            "initial": "c",
+            "final": "en",
+            "example": "岑"
+        },
+        "sen": {
+            "initial": "s",
+            "final": "en",
+            "example": "森"
+        },
+        "en": {
+            "initial": "空",
+            "final": "en",
+            "example": "嗯"
+        },
+        "bin": {
+            "initial": "b",
+            "final": "ien",
+            "example": "宾"
+        },
+        "pin": {
+            "initial": "p",
+            "final": "ien",
+            "example": "拼"
+        },
+        "min": {
+            "initial": "m",
+            "final": "ien",
+            "example": "民"
+        },
+        "nin": {
+            "initial": "n",
+            "final": "ien",
+            "example": "您"
+        },
+        "lin": {
+            "initial": "l",
+            "final": "ien",
+            "example": "林"
+        },
+        "jin": {
+            "initial": "j",
+            "final": "ien",
+            "example": "进"
+        },
+        "qin": {
+            "initial": "q",
+            "final": "ien",
+            "example": "琴"
+        },
+        "xin": {
+            "initial": "x",
+            "final": "ien",
+            "example": "新"
+        },
+        "yin": {
+            "initial": "空",
+            "final": "ien",
+            "example": "因"
+        },
+        "dun": {
+            "initial": "d",
+            "final": "uen",
+            "example": "吨"
+        },
+        "tun": {
+            "initial": "t",
+            "final": "uen",
+            "example": "囤"
+        },
+        "nun": {
+            "initial": "n",
+            "final": "uen",
+            "example": "黁"
+        },
+        "lun": {
+            "initial": "l",
+            "final": "uen",
+            "example": "论"
+        },
+        "gun": {
+            "initial": "g",
+            "final": "uen",
+            "example": "滚"
+        },
+        "kun": {
+            "initial": "k",
+            "final": "uen",
+            "example": "困"
+        },
+        "hun": {
+            "initial": "h",
+            "final": "uen",
+            "example": "混"
+        },
+        "zhun": {
+            "initial": "zh",
+            "final": "uen",
+            "example": "准"
+        },
+        "chun": {
+            "initial": "ch",
+            "final": "uen",
+            "example": "纯"
+        },
+        "shun": {
+            "initial": "sh",
+            "final": "uen",
+            "example": "顺"
+        },
+        "run": {
+            "initial": "r",
+            "final": "uen",
+            "example": "润"
+        },
+        "zun": {
+            "initial": "z",
+            "final": "uen",
+            "example": "尊"
+        },
+        "cun": {
+            "initial": "c",
+            "final": "uen",
+            "example": "寸"
+        },
+        "sun": {
+            "initial": "s",
+            "final": "uen",
+            "example": "孙"
+        },
+        "wen": {
+            "initial": "空",
+            "final": "uen",
+            "example": "问"
+        },
+        "jun": {
+            "initial": "j",
+            "final": "üen",
+            "example": "均"
+        },
+        "qun": {
+            "initial": "q",
+            "final": "üen",
+            "example": "群"
+        },
+        "xun": {
+            "initial": "x",
+            "final": "üen",
+            "example": "训"
+        },
+        "yun": {
+            "initial": "空",
+            "final": "üen",
+            "example": "云"
+        },
+        "bang": {
+            "initial": "b",
+            "final": "ang",
+            "example": "帮"
+        },
+        "pang": {
+            "initial": "p",
+            "final": "ang",
+            "example": "旁"
+        },
+        "mang": {
+            "initial": "m",
+            "final": "ang",
+            "example": "忙"
+        },
+        "fang": {
+            "initial": "f",
+            "final": "ang",
+            "example": "放"
+        },
+        "dang": {
+            "initial": "d",
+            "final": "ang",
+            "example": "当"
+        },
+        "tang": {
+            "initial": "t",
+            "final": "ang",
+            "example": "躺"
+        },
+        "nang": {
+            "initial": "n",
+            "final": "ang",
+            "example": "囊"
+        },
+        "lang": {
+            "initial": "l",
+            "final": "ang",
+            "example": "狼"
+        },
+        "gang": {
+            "initial": "g",
+            "final": "ang",
+            "example": "刚"
+        },
+        "kang": {
+            "initial": "k",
+            "final": "ang",
+            "example": "抗"
+        },
+        "hang": {
+            "initial": "h",
+            "final": "ang",
+            "example": "行"
+        },
+        "zhang": {
+            "initial": "zh",
+            "final": "ang",
+            "example": "张"
+        },
+        "chang": {
+            "initial": "ch",
+            "final": "ang",
+            "example": "长"
+        },
+        "shang": {
+            "initial": "sh",
+            "final": "ang",
+            "example": "上"
+        },
+        "rang": {
+            "initial": "r",
+            "final": "ang",
+            "example": "让"
+        },
+        "zang": {
+            "initial": "z",
+            "final": "ang",
+            "example": "脏"
+        },
+        "cang": {
+            "initial": "c",
+            "final": "ang",
+            "example": "藏"
+        },
+        "sang": {
+            "initial": "s",
+            "final": "ang",
+            "example": "丧"
+        },
+        "ang": {
+            "initial": "空",
+            "final": "ang",
+            "example": "昂"
+        },
+        "biang": {
+            "initial": "b",
+            "final": "iang",
+            "example": "𰻝"
+        },
+        "niang": {
+            "initial": "n",
+            "final": "iang",
+            "example": "娘"
+        },
+        "liang": {
+            "initial": "l",
+            "final": "iang",
+            "example": "量"
+        },
+        "jiang": {
+            "initial": "j",
+            "final": "iang",
+            "example": "将"
+        },
+        "qiang": {
+            "initial": "q",
+            "final": "iang",
+            "example": "强"
+        },
+        "xiang": {
+            "initial": "x",
+            "final": "iang",
+            "example": "想"
+        },
+        "yang": {
+            "initial": "空",
+            "final": "iang",
+            "example": "样"
+        },
+        "guang": {
+            "initial": "g",
+            "final": "uang",
+            "example": "光"
+        },
+        "kuang": {
+            "initial": "k",
+            "final": "uang",
+            "example": "狂"
+        },
+        "huang": {
+            "initial": "h",
+            "final": "uang",
+            "example": "黄"
+        },
+        "zhuang": {
+            "initial": "zh",
+            "final": "uang",
+            "example": "装"
+        },
+        "chuang": {
+            "initial": "ch",
+            "final": "uang",
+            "example": "床"
+        },
+        "shuang": {
+            "initial": "sh",
+            "final": "uang",
+            "example": "双"
+        },
+        "wang": {
+            "initial": "空",
+            "final": "uang",
+            "example": "往"
+        },
+        "beng": {
+            "initial": "b",
+            "final": "eng",
+            "example": "崩"
+        },
+        "peng": {
+            "initial": "p",
+            "final": "eng",
+            "example": "捧"
+        },
+        "meng": {
+            "initial": "m",
+            "final": "eng",
+            "example": "梦"
+        },
+        "feng": {
+            "initial": "f",
+            "final": "eng",
+            "example": "风"
+        },
+        "deng": {
+            "initial": "d",
+            "final": "eng",
+            "example": "等"
+        },
+        "teng": {
+            "initial": "t",
+            "final": "eng",
+            "example": "疼"
+        },
+        "neng": {
+            "initial": "n",
+            "final": "eng",
+            "example": "能"
+        },
+        "leng": {
+            "initial": "l",
+            "final": "eng",
+            "example": "冷"
+        },
+        "geng": {
+            "initial": "g",
+            "final": "eng",
+            "example": "更"
+        },
+        "keng": {
+            "initial": "k",
+            "final": "eng",
+            "example": "坑"
+        },
+        "heng": {
+            "initial": "h",
+            "final": "eng",
+            "example": "横"
+        },
+        "zheng": {
+            "initial": "zh",
+            "final": "eng",
+            "example": "正"
+        },
+        "cheng": {
+            "initial": "ch",
+            "final": "eng",
+            "example": "成"
+        },
+        "sheng": {
+            "initial": "sh",
+            "final": "eng",
+            "example": "生"
+        },
+        "reng": {
+            "initial": "r",
+            "final": "eng",
+            "example": "仍"
+        },
+        "zeng": {
+            "initial": "z",
+            "final": "eng",
+            "example": "增"
+        },
+        "ceng": {
+            "initial": "c",
+            "final": "eng",
+            "example": "曾"
+        },
+        "seng": {
+            "initial": "s",
+            "final": "eng",
+            "example": "僧"
+        },
+        "eng": {
+            "initial": "空",
+            "final": "eng",
+            "example": "鞥"
+        },
+        "bing": {
+            "initial": "b",
+            "final": "ieng",
+            "example": "并"
+        },
+        "ping": {
+            "initial": "p",
+            "final": "ieng",
+            "example": "平"
+        },
+        "ming": {
+            "initial": "m",
+            "final": "ieng",
+            "example": "名"
+        },
+        "ding": {
+            "initial": "d",
+            "final": "ieng",
+            "example": "定"
+        },
+        "ting": {
+            "initial": "t",
+            "final": "ieng",
+            "example": "听"
+        },
+        "ning": {
+            "initial": "n",
+            "final": "ieng",
+            "example": "拧"
+        },
+        "ling": {
+            "initial": "l",
+            "final": "ieng",
+            "example": "令"
+        },
+        "jing": {
+            "initial": "j",
+            "final": "ieng",
+            "example": "经"
+        },
+        "qing": {
+            "initial": "q",
+            "final": "ieng",
+            "example": "请"
+        },
+        "xing": {
+            "initial": "x",
+            "final": "ieng",
+            "example": "行"
+        },
+        "ying": {
+            "initial": "空",
+            "final": "ieng",
+            "example": "应"
+        },
+        "weng": {
+            "initial": "空",
+            "final": "ueng",
+            "example": "翁"
+        },
+        "dong": {
+            "initial": "d",
+            "final": "ong",
+            "example": "懂"
+        },
+        "tong": {
+            "initial": "t",
+            "final": "ong",
+            "example": "同"
+        },
+        "nong": {
+            "initial": "n",
+            "final": "ong",
+            "example": "弄"
+        },
+        "long": {
+            "initial": "l",
+            "final": "ong",
+            "example": "龙"
+        },
+        "gong": {
+            "initial": "g",
+            "final": "ong",
+            "example": "共"
+        },
+        "kong": {
+            "initial": "k",
+            "final": "ong",
+            "example": "空"
+        },
+        "hong": {
+            "initial": "h",
+            "final": "ong",
+            "example": "红"
+        },
+        "zhong": {
+            "initial": "zh",
+            "final": "ong",
+            "example": "中"
+        },
+        "chong": {
+            "initial": "ch",
+            "final": "ong",
+            "example": "冲"
+        },
+        "rong": {
+            "initial": "r",
+            "final": "ong",
+            "example": "容"
+        },
+        "zong": {
+            "initial": "z",
+            "final": "ong",
+            "example": "总"
+        },
+        "cong": {
+            "initial": "c",
+            "final": "ong",
+            "example": "匆"
+        },
+        "song": {
+            "initial": "s",
+            "final": "ong",
+            "example": "送"
+        },
+        "jiong": {
+            "initial": "j",
+            "final": "üong",
+            "example": "囧"
+        },
+        "qiong": {
+            "initial": "q",
+            "final": "üong",
+            "example": "穷"
+        },
+        "xiong": {
+            "initial": "x",
+            "final": "üong",
+            "example": "兄"
+        },
+        "yong": {
+            "initial": "空",
+            "final": "üong",
+            "example": "用"
+        },
+        "er": {
+            "initial": "空",
+            "final": "er",
+            "example": "儿"
+        }
+    }
+}

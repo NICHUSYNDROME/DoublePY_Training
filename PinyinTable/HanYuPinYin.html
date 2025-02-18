@@ -47,6 +47,19 @@
             z-index: 1000;
         }
 
+        .example {
+            font-family: '仿宋', 'SimSun', sans-serif;
+            font-size: 40px;
+            color: var(--color-primary);
+            position: sticky;
+            top: 10px;
+            left: 40px;
+            z-index: 9999;
+            width: 40px;
+            height: 40px;
+            padding-left: 40px;
+        }
+
         /* 表格容器 */
         .container {
             max-width: 1200px;
@@ -137,6 +150,7 @@
 </head>
 <body style="height: 1450px;">
     <h1>声母-韵母查询表</h1>
+    <div class="example"></div>
     <div class="overlay-vertical"></div>
     <div class="overlay-horizontal"></div>
     <div class="container">
@@ -151,7 +165,7 @@
             const [initials, finals, pinyinData] = await Promise.all([
                 fetch('initials.json').then(response => response.json()),
                 fetch('finals.json').then(response => response.json()),
-                fetch('pingyin_actual_divided.json').then(response => response.json())
+                fetch('pinyin_all_devided.json').then(response => response.json())
             ]);
 
             return { initials, finals, pinyinData: pinyinData.pingyins };
@@ -195,10 +209,10 @@
                 });
 
                 table.appendChild(row);
-            });
+            }); // Closing curly brace added here
 
             // 添加行和列的高亮事件
-            highlightRowsAndColumns();
+            highlightRowsAndColumns(pinyinData);
         }
 
         // 获取拼音
@@ -212,7 +226,7 @@
         }
 
         // 行和列的高亮函数
-        function highlightRowsAndColumns() {
+        function highlightRowsAndColumns(pinyinData) {
             const cells = document.querySelectorAll('td');
             cells.forEach(cell => {
                 cell.addEventListener('mouseenter', function () {
@@ -231,6 +245,13 @@
                     columnHeaders.forEach(header => {
                         header.classList.add('highlight-col');
                     });
+
+                    // 更新例字
+                    const pinyin = cell.textContent;
+                    const exampleDiv = document.querySelector('.example');
+                    if (pinyinData[pinyin] && pinyinData[pinyin].example) {
+                        exampleDiv.textContent = pinyinData[pinyin].example;
+                    }
                 });
 
                 cell.addEventListener('mouseleave', function () {
@@ -243,6 +264,10 @@
                     columnHeaders.forEach(header => {
                         header.classList.remove('highlight-col');
                     });
+
+                    // 清空例字
+                    const exampleDiv = document.querySelector('.example');
+                    exampleDiv.textContent = '';
                 });
             });
         }
@@ -253,6 +278,23 @@
 
         // 页面加载完成后执行初始化
         document.addEventListener('DOMContentLoaded', init);
+
+        let mouseX = 0;
+        let mouseY = 0;
+
+        document.addEventListener('mousemove', (event) => {
+            mouseX = event.clientX;
+            mouseY = event.clientY;
+        });
+
+        // 定时检查鼠标是否悬停在td上
+        setInterval(() => {
+            const exampleDiv = document.querySelector('.example');
+            const hoveredElement = document.elementFromPoint(mouseX, mouseY);
+            if (!hoveredElement || hoveredElement.tagName !== 'TD' || hoveredElement.textContent === '') {
+                exampleDiv.textContent = '';
+            }
+        }, 100);
     </script>
 </body>
 </html>
